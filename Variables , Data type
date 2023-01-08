@@ -1,0 +1,25 @@
+//to print age 
+
+#include <stdio.h>
+
+int main(){
+    int age = 30;
+    
+    printf("age is %d",age);
+    
+    return 0;
+    
+} 
+
+
+// to print character 
+
+#include <stdio.h>
+
+int main(){
+    
+    char hashtag ='#';
+    printf("hashtag is %c \n",hashtag);
+    return 0;
+    
+}    
