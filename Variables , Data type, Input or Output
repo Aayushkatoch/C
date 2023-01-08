@@ -8,8 +8,8 @@ int main(){
     printf("age is %d",age);
     
     return 0;
-    
 } 
+
 
 
 // to print character 
@@ -21,8 +21,8 @@ int main(){
     char hashtag ='#';
     printf("hashtag is %c \n",hashtag);
     return 0;
-    
 }    
+
 
 
 // to take an input
@@ -35,5 +35,4 @@ int main(){
    scanf("%d",&age);
    printf("age is : %d",age);
    return 0;
-   
 }   
