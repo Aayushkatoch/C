@@ -5,3 +5,20 @@
 // Example of Type decleration instruction
 
 
+#include<stdio.h>
+
+int main(){
+    int a=7;
+    int b=a;
+    
+    int c=b*1;
+    int d=c+1;
+    
+    int sum=a+b+c+d;
+    printf("sum is :%d",a+b+c+d);
+    
+    return 0;
+    
+}
+
+
