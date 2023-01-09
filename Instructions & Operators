@@ -40,4 +40,21 @@ int main(){
     
 }
 
+// expression for power problem 
+
+// in this we can't use " ^ " , we have to right (int power = pow(y,z) )
+
+#include<stdio.h>
+#include<math.h>
+
+int main(){
+    int y,z;
+    y=z=4;
+    int x=y+z;
+    int power=pow(y,z);
+    
+   printf("x is :%d",power);
+    return 0;
+    
+}
 
