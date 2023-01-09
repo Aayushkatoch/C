@@ -23,6 +23,6 @@ int main(){
 
 
 // Arithmetic operator where we use +,-,*,/ .
-// only single variable on the left hand side like (a=b+c)
+// only single variable on the left hand side like (a=b+c) if we write like this (b+c=a) is invalid .
 
 
