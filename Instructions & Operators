@@ -84,5 +84,16 @@ int main(){
     return 0;
     
 }
+ // in this expression we use float value like 4.0
 
+
+#include<stdio.h>
+#include<math.h>
+
+int main(){
+    printf("%f \n",4.0*3);
+    
+    return 0;
+    
+}
 
