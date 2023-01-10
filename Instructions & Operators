@@ -97,3 +97,4 @@ int main(){
     
 }
 
+// operator precedence in this we use BODMAS rule .
