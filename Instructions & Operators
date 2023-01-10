@@ -110,3 +110,15 @@ int main(){
     return 0;
     
 }
+
+// associativity (for same precedence) in this we move left to right 
+
+
+#include<stdio.h>
+int main(){
+    int a=4*3/2*5;
+    print("%d \n",a);
+    
+    return 0;
+    
+}    
