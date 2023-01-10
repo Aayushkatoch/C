@@ -98,3 +98,15 @@ int main(){
 }
 
 // operator precedence in this we use BODMAS rule .
+
+
+#include<stdio.h>
+#include<math.h>
+
+int main(){
+    int a=5+7*12;
+    printf("%d \n",a);
+    
+    return 0;
+    
+}
