@@ -73,3 +73,16 @@ int main(){
 
 
 // type conversion 
+
+
+#include<stdio.h>
+#include<math.h>
+
+int main(){
+    printf("%d \n",2*3);
+    
+    return 0;
+    
+}
+
+
