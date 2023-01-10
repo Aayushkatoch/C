@@ -111,7 +111,7 @@ int main(){
     
 }
 
-// associativity (for same precedence) in this we move left to right 
+// associativity (for same precedence) in this we move left to right like  " x = 2 * 5 / 2 * 7 "
 
 
 #include<stdio.h>
